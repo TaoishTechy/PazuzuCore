@@ -727,7 +727,7 @@ def main():
     config = {
         'server': 'irc.libera.chat',
         'port': 6697,
-        'channel': '#ghostmesh',
+        'channel': '#agi_testing',
         'nickname': 'PAZUZU_AGI',
         'ssl_context': True,
         'botmaster': 'TaoishTechy' # Change this to your IRC username
